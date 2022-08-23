@@ -1,0 +1,90 @@
+<title></title>
+<style type="text/css">table,
+	td,
+	div,
+	h1,
+	p {
+		font-family: Arial, sans-serif;
+	}
+	@media screen and (max-width: 530px) {
+		.unsub {
+			display: block;
+			padding: 8px;
+			margin-top: 14px;
+			border-radius: 6px;
+			background-color: #ffffff;
+			text-decoration: none !important;
+			font-weight: bold;
+		}
+		.col-lge {
+			max-width: 100% !important;
+		}
+	}
+	@media screen and (min-width: 531px) {
+		.col-sml {
+			max-width: 27% !important;
+		}
+		.col-lge {
+			max-width: 73% !important;
+		}
+	}
+</style>
+<style class="darkreader darkreader--sync" media="screen" type="text/css">
+</style>
+<div data-darkreader-inline-bgcolor="" lang="en" style="--darkreader-inline-bgcolor:#181a1b; background-color:#ffffff; text-size-adjust:100%">
+<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; border-spacing:0px; border:none; width:100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:0">
+			<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" data-darkreader-inline-color="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; --darkreader-inline-color:#e8e6e3; border-spacing:0px; border:none; color:#000000; font-family:Arial,sans-serif; font-size:16px; line-height:22px; max-width:600px; text-align:left; width:94%">
+				<tbody>
+					<tr>
+						<td data-darkreader-inline-bgcolor="" data-darkreader-inline-color="" style="--darkreader-inline-bgcolor:#3e4446; --darkreader-inline-color:#e8e6e3; background-color:#505556; color:#ffffff; padding:30px; text-align:center">
+						<h1 style="font-size:25px; font-weight:bold; letter-spacing:-0.02em; line-height:1.3px; margin-bottom:5px; margin-top:0">[[company_name]] Quarantine Error</h1>
+						</td>
+					</tr>
+					<tr>
+						<td data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#000000; padding:30px">
+						<p style="font-weight:bold">Hi [[first_name]],</p>
+
+						<p style="font-weight:bold">Email quarantine error report occurred on [[email]].</p>
+
+						<p><x-sei title="Shocking content to entice you to click link or open attachment.">You have (17) Important Messages on the quarantine service</x-sei>.</p>
+
+						<p>This is due to an [[email]] server error.</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="font-weight:bold; text-align:center">Fix error below to receive pending emails.</td>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:30px 0; width:100%">
+							<tbody align="center">
+								<tr>
+									<td align="center">
+									<table align="center" border="0" cellpadding="0" cellspacing="0">
+										<tbody>
+											<tr>
+												<td align="center" bgcolor="#ff0000" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor:#cc0000; border-radius:4px; padding:12px 18px"><x-sei title="Hover over the link. Link does not take you to the site the email content says it will."><a href="[[URL]]"><strong data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#ffffff; display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:16px; font-weight:bold; text-decoration:none; text-transform:capitalize">Fix all Pending issues here</strong></a></x-sei></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p style="margin-bottom:5px; margin-left:5px; margin-right:5px; margin-top:5px"><x-sei title="Warns of negative consequence if you don’t complete request."><strong style="font-weight:bold">IMPORTANT: </strong>Failure to carry out above exercise might lead to account lock and files lost</x-sei>.</p>
+
+						<p>Thank you,<br />
+						[[company_name]] IT Department</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
