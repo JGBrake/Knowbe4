@@ -1,0 +1,75 @@
+<title></title>
+<style type="text/css">table,
+	td,
+	div,
+	h1,
+	p {
+		font-family: Arial, sans-serif;
+	}
+	@media screen and (max-width: 530px) {
+		.unsub {
+			display: block;
+			padding: 8px;
+			margin-top: 14px;
+			border-radius: 6px;
+			background-color: #ffffff;
+			text-decoration: none !important;
+			font-weight: bold;
+		}
+		.col-lge {
+			max-width: 100% !important;
+		}
+	}
+	@media screen and (min-width: 531px) {
+		.col-sml {
+			max-width: 27% !important;
+		}
+		.col-lge {
+			max-width: 73% !important;
+		}
+	}
+</style>
+<style class="darkreader darkreader--sync" media="screen" type="text/css">
+</style>
+<div data-darkreader-inline-bgcolor="" lang="en" style="--darkreader-inline-bgcolor:#181a1b; background-color:#ffffff; text-size-adjust:100%">
+<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; border-spacing:0px; border:none; width:100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:0">
+			<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" data-darkreader-inline-color="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; --darkreader-inline-color:#e8e6e3; border-spacing:0px; border:none; color:#ffffff; font-family:Arial,sans-serif; font-size:16px; line-height:22px; max-width:600px; text-align:left; width:94%">
+				<tbody>
+					<tr>
+						<td data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#000000; padding:30px">
+						<h1 style="font-size:25px; font-weight:normal; line-height:1.2">[[company_name]] IT Inventory Form</h1>
+
+						<p>With all the equipment that's been issued to allow employees to work from home, we need to complete a company-wide inventory. This would include laptops, monitors, etc.</p>
+
+						<p><x-sei title="Tells you to click a link or open an attachment.">Open the online form to confirm what's been issued to you</x-sei>. As a big "thank you!" for helping us out, you'll be entered into a drawing for a chance to win one of four Amazon gift cards.</p>
+
+						<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+							<tbody>
+								<tr>
+									<td>
+									<table border="0" cellpadding="0" cellspacing="0">
+										<tbody>
+											<tr>
+												<td bgcolor="#2a4aef" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor:#0d27af; border-radius:4px; padding:7px 36px"><x-sei title="Hover over the link. Link does not take you to the site the email content says it will."><a href="[[URL]]"><strong data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#ffffff; display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:16px; font-weight:bold; text-decoration:none">Open</strong></a></x-sei></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p style="margin-top:30px">Thank you,<br />
+						IT</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
