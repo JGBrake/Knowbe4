@@ -1,0 +1,63 @@
+<title></title>
+<style type="text/css">table, td, div, h1, p {
+      font-family: Arial, sans-serif;
+    }
+    @media screen and (max-width: 530px) {
+      .unsub {
+        display: block;
+        padding: 8px;
+        margin-top: 14px;
+        border-radius: 6px;
+        background-color: #ffffff;
+        text-decoration: none !important;
+        font-weight: bold;
+      }
+      .col-lge {
+        max-width: 100% !important;
+      }
+    }
+    @media screen and (min-width: 531px) {
+      .col-sml {
+        max-width: 27% !important;
+      }
+      .col-lge {
+        max-width: 73% !important;
+      }
+    }
+</style>
+<style class="darkreader darkreader--sync" media="screen" type="text/css">
+</style>
+<div data-darkreader-inline-bgcolor="" lang="en" style="--darkreader-inline-bgcolor:#181a1b; background-color:#ffffff; text-size-adjust:100%">
+<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; border-spacing:0px; border:none; width:100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:0">
+			<table data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" data-darkreader-inline-color="" style="--darkreader-inline-border-bottom:initial; --darkreader-inline-border-left:initial; --darkreader-inline-border-right:initial; --darkreader-inline-border-top:initial; --darkreader-inline-color:#e8e6e3; border-spacing:0px; border:none; color:#ffffff; font-family:Arial,sans-serif; font-size:16px; line-height:22px; max-width:600px; text-align:left; width:94%">
+				<tbody>
+					<tr>
+						<td data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#000000; padding:30px">
+						<p><x-sei title="Ambiguous salutation. (Example: “Dear user”)">All,</x-sei><br />
+						<br />
+						<br />
+						We have decided that it is time to replace some of our equipment and update our software suite.<br />
+						<br />
+						<br />
+						The order will be placed at the end of next week. <x-sei title="Tells you to click a link or open an attachment.">If you would like to request new equipment or software tools, please submit it here</x-sei></p>
+						<x-sei title="Hover over the link. Link is taking you to a different address than what is shown."><u><a class="plink" href="[[URL]]">www.employeeportal.[[domain]]</a></u></x-sei><br />
+						<br />
+						<br />
+						All requests must be submitted by 3pm Thursday at the latest.<br />
+						<br />
+						<br />
+						Thank you for your cooperation,<br />
+						<br />
+						Debra Farley<br />
+						Supply Manager</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
