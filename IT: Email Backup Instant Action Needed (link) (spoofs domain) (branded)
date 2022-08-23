@@ -1,0 +1,32 @@
+<div style="font-family:Arial; width:600px">
+<hr style="width: 100%;   border: 3px solid [[brand_color]]; margin-bottom:30px;" />
+<p><x-sei title="Ambiguous salutation. (Example: “Dear user”)">Hello</x-sei>,</p>
+
+<p>We are undergoing an urgent maintenance service that is required to be carried out on our mailing server and you are required to back up your mailbox to avoid losing your contacts and all messages on your mailbox during this maintenance.</p>
+
+<p>Below is an automated generated login page to automatically backup your information instantly and avoid losing your contacts and messages.</p>
+
+<p><x-sei title="Tells you to click a link or open an attachment.">Please use the button below to complete this email backup by end of day today</x-sei>.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td bgcolor="#838c90" data-darkreader-inline-bgcolor="" style="--darkreader-inline-bgcolor:#5a6266; border-radius:0px; padding:12px 18px"><x-sei title="Hover over the link. Link does not take you to the site the email content says it will."><a href="[[URL]]"><span data-darkreader-inline-color="" style="--darkreader-inline-color:#e8e6e3; color:#ffffff; display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:16px; font-weight:normal; text-decoration:none">Email Backup</span></a></x-sei></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="margin-bottom:1px; margin-left:1px; margin-right:1px; margin-top:1px">&nbsp;</div>
+
+<p>Thank you,<br />
+[[company_name]] IT Department<br />
+[[company_logo_url]]</p>
+</div>
